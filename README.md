@@ -1,4 +1,4 @@
-# Привет, я [Твоё Имя] 👨💻
+# Привет, я Слава! 👨💻
 
 **🚀 Разработчик | Студент | Энтузиаст низкоуровневого программирования**  
 🌱 Сейчас углубляюсь в **ООП, Linux** и пишу **собственный оконный менеджер** на **Xlib** (скоро будет релиз!).  
@@ -27,11 +27,11 @@
 - Кастомные **горячие клавиши**  
 - Минималистичный **status bar**  
 
-Скоро выложу исходники! [Следи за обновлениями ✨]()  
+Скоро выложу исходники
 
 ## 📊 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ-НИК&layout=compact&theme=dark&hide=html,css)](https://github.com/ТВОЙ-НИК)  
-[![Stats](https://github-readme-stats.vercel.app/api?username=ТВОЙ-НИК&show_icons=true&theme=dark&count_private=true)](https://github.com/ТВОЙ-НИК)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zestria&layout=compact&theme=dark&hide=html,css)](https://github.com/Zestria)  
+[![Stats](https://github-readme-stats.vercel.app/api?username=Zestria&show_icons=true&theme=dark&count_private=true)](https://github.com/Zestria)  
 
 ## 📫 Контакты
 💬 **Telegram**: [@sterkachov](https://t.me/sterkachov)  
