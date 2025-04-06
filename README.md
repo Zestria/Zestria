@@ -1,16 +1,41 @@
-## Hi there 👋
+# Привет, я [Твоё Имя] 👨💻
 
-<!--
-**Zestria/Zestria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**🚀 Разработчик | Студент | Энтузиаст низкоуровневого программирования**  
+🌱 Сейчас углубляюсь в **ООП, Linux** и пишу **собственный оконный менеджер** на **Xlib** (скоро будет релиз!).  
+💡 Влюблен в **алгоритмы, системное программирование и minimalistic UI**.  
 
-Here are some ideas to get you started:
+## 🛠️ Технологии
+### Языки
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Фреймворки & Инструменты
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white)
+![Qt](https://img.shields.io/badge/-Qt-41CD52?logo=qt&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
+![Apache](https://img.shields.io/badge/-Apache-D22128?logo=apache&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+
+## 🔥 Текущий проект: Оконный менеджер на Xlib
+Пишу **легковесный WM** с нуля, вдохновляясь **i3, dwm** и принципами Unix-way.  
+🔧 **Стек**: C++, Xlib, Linux POSIX API.  
+📌 **Фичи**:  
+- Управление окнами через **тайлинги**  
+- Кастомные **горячие клавиши**  
+- Минималистичный **status bar**  
+
+Скоро выложу исходники! [Следи за обновлениями ✨]()  
+
+## 📊 GitHub Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ-НИК&layout=compact&theme=dark&hide=html,css)](https://github.com/ТВОЙ-НИК)  
+[![Stats](https://github-readme-stats.vercel.app/api?username=ТВОЙ-НИК&show_icons=true&theme=dark&count_private=true)](https://github.com/ТВОЙ-НИК)  
+
+## 📫 Контакты
+💬 **Telegram**: [@sterkachov](https://t.me/sterkachov)  
+📧 **Email**: vyacheslav.davl.tech@gmail.com
+
+⭐ *"Писать на C или C++ — это как работать с бензопилой без какой-либо защиты."*  
+      — **Bob Gray**  
