@@ -1,9 +1,9 @@
 # Доброго дня! 👋
 
 ## 😊 Немного про себя
-**🚀 Разработчик | Студент | Энтузиаст низкоуровневого программирования**  
-🌱 Сейчас углубляюсь в **ООП, Linux** и пишу **собственный оконный менеджер** на **Xlib** (скоро будет релиз!).  
-💡 Влюблен в **алгоритмы, системное программирование и minimalistic UI**.  
+**🚀 Разработчик | Студент | Любитель компиляторной инженерии**  
+🌱 Сейчас углубляюсь в **JVM, Linux и LLVM** и пишу **небольшой оконный менеджер** на **Xlib**.  
+💡 Живу **алгоритмами, системным программированием и компиляторами**.  
 
 ## 🛠️ Технологии
 ### Языки
@@ -13,6 +13,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 ### Фреймворки & Инструменты
+![LLVM](https://img.shields.io/badge/LLVM-IR-262D3A?logo=LLVM&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white)
 ![Qt](https://img.shields.io/badge/-Qt-41CD52?logo=qt&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
@@ -31,7 +32,7 @@
 Скоро выложу исходники
 
 ## 📊 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zestria&layout=compact&theme=dark&hide=html,css)](https://github.com/Zestria)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zestria&layout=compact&theme=dark&hide=html,css&cache_seconds=1800&rand=321)](https://github.com/Zestria)  
 [![Stats](https://github-readme-stats.vercel.app/api?username=Zestria&show_icons=true&theme=dark&count_private=true)](https://github.com/Zestria)  
 
 ## 📫 Контакты
