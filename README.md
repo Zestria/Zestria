@@ -34,6 +34,8 @@
 
 Выложу через пару дней
 
+Также почти закончил оконный менеджер my_wm
+
 ## 📊 GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zestria&layout=compact&theme=dark&hide=html,css&cache_seconds=1800&rand=321)](https://github.com/Zestria)  
 [![Stats](https://github-readme-stats.vercel.app/api?username=Zestria&show_icons=true&theme=dark&count_private=true)](https://github.com/Zestria)  
