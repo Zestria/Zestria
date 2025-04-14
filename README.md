@@ -21,20 +21,9 @@
 ![Apache](https://img.shields.io/badge/-Apache-D22128?logo=apache&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 
-## 🎮 Текущий проект: CHIP-8 Emulator in Java
+## 🔥 Текущий проект: Оконный менеджер MY_WM
 
-**Эмулятор CHIP-8** с графическим интерфейсом и звуком.
-
-🔧 **Стек**:
-- Java 17+
-- Swing/JavaFX (графический интерфейс)
-- JUnit 5 (тестирование эмуляции)
-- Maven/Gradle (сборка)
-- javax.sound (звуковая система)
-
-Выложу через пару дней
-
-Также почти закончил оконный менеджер my_wm
+## 🎮 В планах: Эмулятор CHIP-8 на Java
 
 ## 📊 GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zestria&layout=compact&theme=dark&hide=html,css&cache_seconds=1800&rand=321)](https://github.com/Zestria)  
